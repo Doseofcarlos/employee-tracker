@@ -6,7 +6,7 @@ INSERT INTO departments (name) VALUES
 ("IT"),
 ("Digital Marketing"),
 ("HR");
-
+ 
 --roles
 INSERT INTO role (title, salary, department_id) VALUES 
 ("Visual Manager", 45000, 1),
